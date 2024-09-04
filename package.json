@@ -1,0 +1,22 @@
+{
+  "name": "playwright-learning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tommyqhoang/playwright-learning.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tommyqhoang/playwright-learning/issues"
+  },
+  "homepage": "https://github.com/tommyqhoang/playwright-learning#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.46.1",
+    "@types/node": "^22.5.3"
+  }
+}
